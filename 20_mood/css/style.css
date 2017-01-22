@@ -1,0 +1,22 @@
+body {
+  background-color: #EEEE00;
+  font-family: times;
+}
+h1 {
+  color: red;
+  font-size: 34pt;
+  font-weight: bold;
+}
+p {
+  text-align: justify;
+  font-size: 20pt;
+  font-weight: normal;
+  margin-left: 30px;
+  margin-right: 30px;
+  border-left: 3px solid #66cd00;
+  border-bottom: 3px solid #66cd00;
+  border-right: 3px solid #66cd00;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
