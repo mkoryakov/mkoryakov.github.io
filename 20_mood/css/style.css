@@ -16,7 +16,9 @@ p {
   border-left: 3px solid #66cd00;
   border-bottom: 3px solid #66cd00;
   border-right: 3px solid #66cd00;
+  border-top: 3px solid #66cd00;
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
+  padding-top: 10px;
 }
